@@ -1,0 +1,4 @@
+compress: 
+  quality: 30
+  input: ./data
+  output: ./data/compressed
